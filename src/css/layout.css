@@ -1,0 +1,11 @@
+.news-container {
+  display: flex;
+  gap: 2rem;
+  width: 85%;
+  margin: 3rem auto;
+}
+@media screen and (max-width: 767px) {
+  .news-container {
+    flex-direction: column;
+  }
+}
