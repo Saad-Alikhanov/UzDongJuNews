@@ -1,0 +1,75 @@
+.vid-card-label {
+  color: #666;
+}
+
+@media screen and (max-width: 767px) {
+  .vid-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0 auto;
+  }
+
+  .vid-card-0 .vid-card-content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+  }
+
+  .vid-card-label {
+    font-size: 0.75rem;
+  }
+
+  .vid-card-title {
+    font-size: 1.2rem;
+  }
+
+  .vid-card-0 .vid-card-img {
+    width: 100%;
+    height: 200px; /* Set a fixed height for uniformity */
+    overflow: hidden;
+  }
+
+  .vid-card-0 .vid-card-img img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+/* modify */
+.vid-card-content {
+  display: flex;
+  gap: 0.5rem;
+  margin: 0.5rem 0;
+  width: 100%;
+}
+
+.vid-card-img {
+  width: 30%;
+}
+
+.vid-card-label {
+  font-size: 0.75rem;
+}
+
+.vid-card-title {
+  font-size: 1.2rem;
+}
+
+.vid-card-img {
+  width: 33.3%;
+  height: 75px; /* Set a fixed height for uniformity */
+  overflow: hidden;
+}
+
+.vid-card-img img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 0.5em;
+}

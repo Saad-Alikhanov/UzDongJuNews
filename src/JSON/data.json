@@ -1,0 +1,982 @@
+[
+ {
+  "ID": 1,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL ELITE UDJ-9950",
+  "Price": 41394,
+  "Color": "#FFFFFF"
+ },
+ {
+  "ID": 2,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL FLAT UDJ-9950",
+  "Price": 34298,
+  "Color": "#FFFFFF"
+ },
+ {
+  "ID": 3,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL UDJ-9050",
+  "Price": 43812,
+  "Color": "#111111"
+ },
+ {
+  "ID": 4,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL UDJ-8681",
+  "Price": 42817,
+  "Color": "#DEEAF6"
+ },
+ {
+  "ID": 5,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL UDJ-7445",
+  "Price": 44550
+ },
+ {
+  "ID": 6,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL UDJ-7156",
+  "Price": 60705,
+  "Color": "#4439D5"
+ },
+ {
+  "ID": 7,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL UDJ-5534",
+  "Price": 50661,
+  "Color": "#013300"
+ },
+ {
+  "ID": 8,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL UDJ-5134",
+  "Price": 54805,
+  "Color": "#006600"
+ },
+ {
+  "ID": 9,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL UDJ-4468",
+  "Price": 45967,
+  "Color": "#3DC134"
+ },
+ {
+  "ID": 10,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL UDJ-3389",
+  "Price": 70955
+ },
+ {
+  "ID": 11,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL UDJ-3387",
+  "Price": 46517,
+  "Color": "#FDBA37"
+ },
+ {
+  "ID": 12,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL ELITE  UDJ-2170",
+  "Price": 44492,
+  "Color": "#B8B8B8"
+ },
+ {
+  "ID": 13,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL ELITE  UDJ-1454",
+  "Price": 50856,
+  "Color": "#F7563A"
+ },
+ {
+  "ID": 14,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL ELITE  UDJ-1389",
+  "Price": 52041,
+  "Color": "#D63432"
+ },
+ {
+  "ID": 15,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL  STANDART UDJ-1389",
+  "Price": 42528,
+  "Color": "#D63432"
+ },
+ {
+  "ID": 16,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL  STANDART UDJ-2170",
+  "Price": 36554,
+  "Color": "#B8B8B8"
+ },
+ {
+  "ID": 17,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL  STANDART UDJ-1454",
+  "Price": 42843,
+  "Color": "#F7563A"
+ },
+ {
+  "ID": 18,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL  STANDART UDJ-2254",
+  "Price": 31582
+ },
+ {
+  "ID": 19,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL  STANDART UDJ-5134",
+  "Price": 48539,
+  "Color": "#006600"
+ },
+ {
+  "ID": 20,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL  STANDART UDJ-7445",
+  "Price": 34357
+ },
+ {
+  "ID": 21,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL  STANDART UDJ-9050",
+  "Price": 32112,
+  "Color": "#111111"
+ },
+ {
+  "ID": 22,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL  STANDART UDJ-9950",
+  "Price": 32199,
+  "Color": "#FFFFFF"
+ },
+ {
+  "ID": 23,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL  STANDART UDJ-3387",
+  "Price": 40073,
+  "Color": "#FDBA37"
+ },
+ {
+  "ID": 24,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL  STANDART UDJ-7156",
+  "Price": 54389,
+  "Color": "#4439D5"
+ },
+ {
+  "ID": 25,
+  "Category": "EMAL",
+  "Product_name": "NT-661U ROYALMEL  UDJ-2260",
+  "Price": 44899,
+  "Color": "#808080"
+ },
+ {
+  "ID": 26,
+  "Category": "EMAL",
+  "Product_name": "ROYAL AQUA UDJ-9950",
+  "Price": 26989,
+  "Color": "#FFFFFF"
+ },
+ {
+  "ID": 27,
+  "Category": "EMAL",
+  "Product_name": "ROYAL AQUA UDJ-2254",
+  "Price": 29073
+ },
+ {
+  "ID": 28,
+  "Category": "EMAL",
+  "Product_name": "ROYALMEL UDJ-1336 А",
+  "Price": 41688
+ },
+ {
+  "ID": 29,
+  "Category": "EMAL",
+  "Product_name": "ROYALMEL ECONOM UDJ-2254",
+  "Price": 36216
+ },
+ {
+  "ID": 30,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX ELITE UDJ-9950",
+  "Price": 20243,
+  "Color": "#FFFFFF"
+ },
+ {
+  "ID": 31,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX OPTIMA UDJ-9950",
+  "Price": 14680,
+  "Color": "#FFFFFF"
+ },
+ {
+  "ID": 32,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX PRIMER UDJ-9950P",
+  "Price": 18852,
+  "Color": "#FFFFFF"
+ },
+ {
+  "ID": 33,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-9050",
+  "Price": 21445,
+  "Color": "#111111"
+ },
+ {
+  "ID": 34,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-8658",
+  "Price": 21474,
+  "Color": "#2E75B5"
+ },
+ {
+  "ID": 35,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-8648",
+  "Price": 21826,
+  "Color": "#0071C1"
+ },
+ {
+  "ID": 36,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-7445",
+  "Price": 21460
+ },
+ {
+  "ID": 37,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-4485",
+  "Price": 21274,
+  "Color": "#CCFF9A"
+ },
+ {
+  "ID": 38,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-4484",
+  "Price": 21257,
+  "Color": "#FEFF99"
+ },
+ {
+  "ID": 39,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-4468",
+  "Price": 23503,
+  "Color": "#3DC134"
+ },
+ {
+  "ID": 40,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-4465",
+  "Price": 25602,
+  "Color": "#34D6AD"
+ },
+ {
+  "ID": 41,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-3466",
+  "Price": 20161
+ },
+ {
+  "ID": 42,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-3392",
+  "Price": 21146,
+  "Color": "#D5FFAD"
+ },
+ {
+  "ID": 43,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-3386",
+  "Price": 21998,
+  "Color": "#D6FF85"
+ },
+ {
+  "ID": 44,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-2286",
+  "Price": 20893,
+  "Color": "#FEFF99"
+ },
+ {
+  "ID": 45,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-2285",
+  "Price": 21185,
+  "Color": "#FFFF85"
+ },
+ {
+  "ID": 46,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-2284",
+  "Price": 20827,
+  "Color": "#FFD686"
+ },
+ {
+  "ID": 47,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-2281",
+  "Price": 21222,
+  "Color": "#CCCCCC"
+ },
+ {
+  "ID": 48,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-2280",
+  "Price": 21225,
+  "Color": "#E1E1E1"
+ },
+ {
+  "ID": 49,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-2277",
+  "Price": 21173,
+  "Color": "#FFFF85"
+ },
+ {
+  "ID": 50,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-2276",
+  "Price": 21240
+ },
+ {
+  "ID": 51,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-2275",
+  "Price": 20948
+ },
+ {
+  "ID": 52,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-2260",
+  "Price": 21263,
+  "Color": "#808080"
+ },
+ {
+  "ID": 53,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-2256",
+  "Price": 20158,
+  "Color": "#AE8533"
+ },
+ {
+  "ID": 54,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-2254",
+  "Price": 20218
+ },
+ {
+  "ID": 55,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-2184",
+  "Price": 21006,
+  "Color": "#FFFFAD"
+ },
+ {
+  "ID": 56,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-2176",
+  "Price": 21603,
+  "Color": "#FFAEAD"
+ },
+ {
+  "ID": 57,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-2175",
+  "Price": 21400,
+  "Color": "#FFAD85"
+ },
+ {
+  "ID": 58,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-2170",
+  "Price": 21271,
+  "Color": "#B8B8B8"
+ },
+ {
+  "ID": 59,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-2169",
+  "Price": 22909,
+  "Color": "#FC8530"
+ },
+ {
+  "ID": 60,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-2156",
+  "Price": 22079,
+  "Color": "#AE8533"
+ },
+ {
+  "ID": 61,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-1450",
+  "Price": 19932
+ },
+ {
+  "ID": 62,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX UDJ-1340",
+  "Price": 21877
+ },
+ {
+  "ID": 63,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX STANDART UDJ-1137",
+  "Price": 23053,
+  "Color": "#973536"
+ },
+ {
+  "ID": 64,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX STANDART UDJ-2184",
+  "Price": 19862,
+  "Color": "#FFFFAD"
+ },
+ {
+  "ID": 65,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX STANDART UDJ-2277",
+  "Price": 20188,
+  "Color": "#FFFF85"
+ },
+ {
+  "ID": 66,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX STANDART UDJ-7445",
+  "Price": 19437
+ },
+ {
+  "ID": 67,
+  "Category": "EMULSION",
+  "Product_name": "XT-512 U ROYALTEX STANDART UDJ-9950",
+  "Price": 18536,
+  "Color": "#FFFFFF"
+ },
+ {
+  "ID": 68,
+  "Category": "EMULSION",
+  "Product_name": "ROYALTEXTUR UDJ-2169 T-50%",
+  "Price": 19198,
+  "Color": "#FC8530"
+ },
+ {
+  "ID": 69,
+  "Category": "EMULSION",
+  "Product_name": "ROYALTEX OPTIMA UDJ-2286",
+  "Price": 16868,
+  "Color": "#FEFF99"
+ },
+ {
+  "ID": 70,
+  "Category": "EMULSION",
+  "Product_name": "ROYALTEX OPTIMA UDJ-2184",
+  "Price": 16846,
+  "Color": "#FFFFAD"
+ },
+ {
+  "ID": 71,
+  "Category": "EMULSION",
+  "Product_name": "ROYALTEX OPTIMA UDJ-2284",
+  "Price": 16903,
+  "Color": "#FFD686"
+ },
+ {
+  "ID": 72,
+  "Category": "QD",
+  "Product_name": "FT-138U ROYALMEL QD UDJ-9050",
+  "Price": 40261,
+  "Color": "#111111"
+ },
+ {
+  "ID": 73,
+  "Category": "QD",
+  "Product_name": "FT-138U ROYALMEL QD UDJ-9950",
+  "Price": 41031,
+  "Color": "#FFFFFF"
+ },
+ {
+  "ID": 74,
+  "Category": "QD",
+  "Product_name": "FT-138U ROYALMEL QD UDJ-1454",
+  "Price": 48377,
+  "Color": "#F7563A"
+ },
+ {
+  "ID": 75,
+  "Category": "QD",
+  "Product_name": "FT-138U ROYALMEL QD UDJ-7156",
+  "Price": 58898,
+  "Color": "#4439D5"
+ },
+ {
+  "ID": 76,
+  "Category": "QD",
+  "Product_name": "FT-138U ROYALMEL QD UDJ-2260",
+  "Price": 41052,
+  "Color": "#808080"
+ },
+ {
+  "ID": 77,
+  "Category": "QD",
+  "Product_name": "FT-138U ROYALMEL QD UDJ-3387",
+  "Price": 67436,
+  "Color": "#FDBA37"
+ },
+ {
+  "ID": 78,
+  "Category": "QD",
+  "Product_name": "FT-138U ROYALMEL QD UDJ-1389",
+  "Price": 52566,
+  "Color": "#D63432"
+ },
+ {
+  "ID": 79,
+  "Category": "QD",
+  "Product_name": "FT-138U ROYALMEL QD UDJ-8658",
+  "Price": 42403,
+  "Color": "#2E75B5"
+ },
+ {
+  "ID": 80,
+  "Category": "QD",
+  "Product_name": "FT-138U ROYALMEL QD UDJ-7445",
+  "Price": 41977
+ },
+ {
+  "ID": 81,
+  "Category": "QD",
+  "Product_name": "FT-138U ROYALMEL QD UDJ-5134",
+  "Price": 56720,
+  "Color": "#006600"
+ },
+ {
+  "ID": 82,
+  "Category": "QD",
+  "Product_name": "FT-138U ROYALMEL QD UDJ-2170",
+  "Price": 41070,
+  "Color": "#B8B8B8"
+ },
+ {
+  "ID": 83,
+  "Category": "QD",
+  "Product_name": "FT-138 U ROYALMEL QD UDJ-1399",
+  "Price": 48678
+ },
+ {
+  "ID": 84,
+  "Category": "QD",
+  "Product_name": "FP-238U ROYALMEL QD PRIMER UDJ-9950",
+  "Price": 39504,
+  "Color": "#FFFFFF"
+ },
+ {
+  "ID": 85,
+  "Category": "QD",
+  "Product_name": "FP-238U ROYALMEL QD PRIMER UDJ-1389",
+  "Price": 49704,
+  "Color": "#D63432"
+ },
+ {
+  "ID": 86,
+  "Category": "QD",
+  "Product_name": "FT-238U ROYALMEL QD PRIMER UDJ-9050",
+  "Price": 36843,
+  "Color": "#111111"
+ },
+ {
+  "ID": 87,
+  "Category": "QD",
+  "Product_name": "FP-238U ROYALMEL QD PRIMER UDJ-2260",
+  "Price": 42106,
+  "Color": "#808080"
+ },
+ {
+  "ID": 88,
+  "Category": "QD",
+  "Product_name": "FP-238U ROYALMEL QD PRIMER UDJ-2190",
+  "Price": 57819
+ },
+ {
+  "ID": 89,
+  "Category": "QD",
+  "Product_name": "FP-238U ROYALMEL QD PRIMER UDJ-2170",
+  "Price": 39114,
+  "Color": "#B8B8B8"
+ },
+ {
+  "ID": 90,
+  "Category": "RP",
+  "Product_name": "YT-760 ROYALPOX TOP UDJ-9950",
+  "Price": 44514,
+  "Color": "#FFFFFF"
+ },
+ {
+  "ID": 91,
+  "Category": "RP",
+  "Product_name": "YT-760 ROYALPOX TOP UDJ-3387",
+  "Price": 46595,
+  "Color": "#FDBA37"
+ },
+ {
+  "ID": 92,
+  "Category": "RP",
+  "Product_name": "YT-760 ROYALPOX TOP UDJ-9050",
+  "Price": 46123,
+  "Color": "#111111"
+ },
+ {
+  "ID": 93,
+  "Category": "RP",
+  "Product_name": "YT-760 ROYALPOX TOP UDJ-1389",
+  "Price": 54353,
+  "Color": "#D63432"
+ },
+ {
+  "ID": 94,
+  "Category": "RP",
+  "Product_name": "YT-760 ROYALPOX TOP UDJ-7675",
+  "Price": 44026,
+  "Color": "#66CBFF"
+ },
+ {
+  "ID": 95,
+  "Category": "RP",
+  "Product_name": "YT-760 ROYALPOX TOP UDJ-2170",
+  "Price": 54006,
+  "Color": "#B8B8B8"
+ },
+ {
+  "ID": 96,
+  "Category": "RP",
+  "Product_name": "YT-760 ROYALPOX TOP UDJ-5134",
+  "Price": 59157,
+  "Color": "#006600"
+ },
+ {
+  "ID": 97,
+  "Category": "RP",
+  "Product_name": "YT-760 ROYALPOX TOP UDJ-7445",
+  "Price": 45646
+ },
+ {
+  "ID": 98,
+  "Category": "RP",
+  "Product_name": "YT-760 ROYALPOX TOP GREEN UDJ-5390",
+  "Price": 49943
+ },
+ {
+  "ID": 99,
+  "Category": "RP",
+  "Product_name": "YT-760 ROYALPOX TOP GREEN UDJ-4468",
+  "Price": 46571,
+  "Color": "#3DC134"
+ },
+ {
+  "ID": 100,
+  "Category": "RP",
+  "Product_name": "YT-760 ROYALPOX TOP UDJ-8648",
+  "Price": 47133,
+  "Color": "#0071C1"
+ },
+ {
+  "ID": 101,
+  "Category": "RP",
+  "Product_name": "YT-760 ROYALPOX TOP UDJ-1454",
+  "Price": 53619,
+  "Color": "#F7563A"
+ },
+ {
+  "ID": 102,
+  "Category": "RP",
+  "Product_name": "YT-760 ROYALPOX TOP UDJ-1137",
+  "Price": 54196,
+  "Color": "#973536"
+ },
+ {
+  "ID": 103,
+  "Category": "RP",
+  "Product_name": "YT-760 ROYALPOX TOP UDJ-8681",
+  "Price": 44241,
+  "Color": "#DEEAF6"
+ },
+ {
+  "ID": 104,
+  "Category": "RP",
+  "Product_name": "ROYALPOX PRIMER HARDNER REN-2455",
+  "Price": 51768
+ },
+ {
+  "ID": 105,
+  "Category": "RP",
+  "Product_name": "YF-868B ROYALPOX PRIMER CLEAR",
+  "Price": 49936
+ },
+ {
+  "ID": 106,
+  "Category": "RP",
+  "Product_name": "ROYALPOX TOP HARDNER  REH-2149",
+  "Price": 52714
+ },
+ {
+  "ID": 107,
+  "Category": "RP",
+  "Product_name": "ROYALPOX FLOOR TOP STONE",
+  "Price": 16709
+ },
+ {
+  "ID": 108,
+  "Category": "RP",
+  "Product_name": "REF-120 2K ROYALPOX FLOOR TOP UDJ-4450",
+  "Price": 45884
+ },
+ {
+  "ID": 109,
+  "Category": "RP",
+  "Product_name": "REF-120 2K ROYALPOX FLOOR TOP UDJ-2260",
+  "Price": 43682,
+  "Color": "#808080"
+ },
+ {
+  "ID": 110,
+  "Category": "RP",
+  "Product_name": "REF-120 2K ROYALPOX FLOOR TOP UDJ-5556",
+  "Price": 49151,
+  "Color": "#339933"
+ },
+ {
+  "ID": 111,
+  "Category": "RP",
+  "Product_name": "REF-120 2K ROYALPOX FLOOR TOP UDJ-7666",
+  "Price": 43954,
+  "Color": "#33ADFF"
+ },
+ {
+  "ID": 112,
+  "Category": "RP",
+  "Product_name": "REF-120 2K ROYALPOX FLOOR TOP UDJ-8648",
+  "Price": 46563,
+  "Color": "#0071C1"
+ },
+ {
+  "ID": 113,
+  "Category": "RP",
+  "Product_name": "REF-120 2K ROYALPOX FLOOR TOP UDJ-8673",
+  "Price": 42867,
+  "Color": "#D7D6FE"
+ },
+ {
+  "ID": 114,
+  "Category": "RP",
+  "Product_name": "REF-120 2K ROYALPOX FLOOR TOP UDJ-8678",
+  "Price": 43764
+ },
+ {
+  "ID": 115,
+  "Category": "RP",
+  "Product_name": "REF-120 2K ROYALPOX FLOOR TOP UDJ-8681",
+  "Price": 43414,
+  "Color": "#DEEAF6"
+ },
+ {
+  "ID": 116,
+  "Category": "RP",
+  "Product_name": "REF-120 2K ROYALPOX FLOOR TOP UDJ-9950",
+  "Price": 42731,
+  "Color": "#FFFFFF"
+ },
+ {
+  "ID": 117,
+  "Category": "RP",
+  "Product_name": "REF-120 2К ROYALPOX FLOOR TOP UDJ-7657",
+  "Price": 43590
+ },
+ {
+  "ID": 118,
+  "Category": "CLEAR",
+  "Product_name": "RFP-170U ROYAL CLEAR FILLER",
+  "Price": 41543
+ },
+ {
+  "ID": 119,
+  "Category": "CLEAR",
+  "Product_name": "RQD-218 U ROYAL CLEAR Quick Drying",
+  "Price": 39679
+ },
+ {
+  "ID": 120,
+  "Category": "CLEAR",
+  "Product_name": "ROYAL CLEAR YACHT",
+  "Price": 42299
+ },
+ {
+  "ID": 121,
+  "Category": "CLEAR",
+  "Product_name": "ROYAL CLEAR PARGUET",
+  "Price": 40299
+ },
+ {
+  "ID": 122,
+  "Category": "NEOLIT",
+  "Product_name": "AT-530 NEOLITE WHITE  UDJ-9950",
+  "Price": 54744,
+  "Color": "#FFFFFF"
+ },
+ {
+  "ID": 123,
+  "Category": "NEOLIT",
+  "Product_name": "AT-530 NEOLITE GREY UDJ-2260",
+  "Price": 57596,
+  "Color": "#808080"
+ },
+ {
+  "ID": 124,
+  "Category": "NEOLIT",
+  "Product_name": "AT-530 NEOLITE BLUE UDJ-7445",
+  "Price": 56655
+ },
+ {
+  "ID": 125,
+  "Category": "NEOLIT",
+  "Product_name": "AT-530 NEOLITE BLUE UDJ-7363",
+  "Price": 57137
+ },
+ {
+  "ID": 126,
+  "Category": "NEOLIT",
+  "Product_name": "AT-530 NEOLITE YELLOW UDJ-3387",
+  "Price": 57540,
+  "Color": "#FDBA37"
+ },
+ {
+  "ID": 127,
+  "Category": "NEOLIT",
+  "Product_name": "AT-530 NEOLITE RED UDJ-1389",
+  "Price": 67805,
+  "Color": "#D63432"
+ },
+ {
+  "ID": 128,
+  "Category": "NEOLIT",
+  "Product_name": "AT-530 NEOLITE DARK RED UDJ-1399",
+  "Price": 64765,
+  "Color": "#840000"
+ },
+ {
+  "ID": 129,
+  "Category": "NEOLIT",
+  "Product_name": "AT-530 NEOLITE BLACK UDJ-9050",
+  "Price": 58515,
+  "Color": "#111111"
+ },
+ {
+  "ID": 130,
+  "Category": "NEOLIT",
+  "Product_name": "AT-530 NEOLITE UDJ-1136",
+  "Price": 56986,
+  "Color": "#800000"
+ },
+ {
+  "ID": 131,
+  "Category": "NEOLIT",
+  "Product_name": "AT-530 NEOLITE GREEN UDJ-5134",
+  "Price": 75910,
+  "Color": "#006600"
+ },
+ {
+  "ID": 132,
+  "Category": "NEOLIT",
+  "Product_name": "AT-530 NEOLITE GREY UDJ-2170",
+  "Price": 56457,
+  "Color": "#B8B8B8"
+ },
+ {
+  "ID": 133,
+  "Category": "NEOLIT",
+  "Product_name": "AT-530 NEOLITE RED UDJ-1454",
+  "Price": 63524,
+  "Color": "#F7563A"
+ },
+ {
+  "ID": 134,
+  "Category": "NEOLIT",
+  "Product_name": "AT-530 NEOLITE YELLOW  UDJ-3389",
+  "Price": 66140,
+  "Color": "#E9AB17"
+ },
+ {
+  "ID": 135,
+  "Category": "NEOLIT",
+  "Product_name": "AT-530 NEOLITE GREEN UDJ -5534",
+  "Price": 75768,
+  "Color": "#013300"
+ },
+ {
+  "ID": 136,
+  "Category": "NEOLIT",
+  "Product_name": "AT-530 NEOLITE  BLUE UDJ-7658",
+  "Price": 58463,
+  "Color": "#02337F"
+ },
+ {
+  "ID": 137,
+  "Category": "TRAFFIC",
+  "Product_name": "AT -540 W  TRAFFIC PAINT WHITE",
+  "Price": 36646,
+  "Color": "#FFFFFF"
+ },
+ {
+  "ID": 138,
+  "Category": "TRAFFIC",
+  "Product_name": "AT -540 W  TRAFFIC PAINT YELLOW",
+  "Price": 59780,
+  "Color": "#E9AB17"
+ },
+ {
+  "ID": 139,
+  "Category": "TRAFFIC",
+  "Product_name": "AT -540 W  TRAFFIC PAINT BLACK",
+  "Price": 38832,
+  "Color": "#111111"
+ },
+ {
+  "ID": 140,
+  "Category": "TRAFFIC",
+  "Product_name": "AT -540 W  TRAFFIC PAINT  UDJ-2170",
+  "Price": 36427,
+  "Color": "#B8B8B8"
+ },
+ {
+  "ID": 141,
+  "Category": "TRAFFIC",
+  "Product_name": "AT -540 W  TRAFFIC PAINT GREY UDJ-9099",
+  "Price": 37224,
+  "Color": "#90938F"
+ },
+ {
+  "ID": 142,
+  "Category": "TRAFFIC",
+  "Product_name": "AT -540 W  TRAFFIC PAINT  UDJ-9009",
+  "Price": 36999
+ },
+ {
+  "ID": 143,
+  "Category": "TRAFFIC",
+  "Product_name": "AT -540 W  TRAFFIC PAINT  UDJ-5134",
+  "Price": 53449,
+  "Color": "#006600"
+ },
+ {
+  "ID": 144,
+  "Category": "TRAFFIC",
+  "Product_name": "AT -540 W  TRAFFIC PAINT  UDJ-1389",
+  "Price": 47856,
+  "Color": "#D63432"
+ },
+ {
+  "ID": 145,
+  "Category": "REMOVER",
+  "Product_name": " ROYAL REMOVER (XW-954U)",
+  "Price": 57150
+ }
+]
