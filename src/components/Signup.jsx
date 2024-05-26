@@ -1,32 +1,29 @@
-// src/components/Signup.js
+// SignUp.js
 import React, { useState } from 'react'
 import { auth } from '../firebase'
-import { createUserWithEmailAndPassword } from 'firebase/auth'
-import { useNavigate } from 'react-router-dom'
 
-const Signup = () => {
+const SignUp = () => {
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
-  const [error, setError] = useState('')
-  const navigate = useNavigate()
+  const [error, setError] = useState(null)
 
-  const handleSubmit = async (e) => {
+  const handleSignUp = async (e) => {
     e.preventDefault()
     try {
-      await createUserWithEmailAndPassword(auth, email, password)
-      navigate('/')
-    } catch (err) {
-      setError('Failed to create an account')
+      await auth.createUserWithEmailAndPassword(email, password)
+      // You can redirect the user to another page or display a success message here
+      console.log('User signed up successfully')
+    } catch (error) {
+      setError(error.message)
     }
   }
 
   return (
     <div>
-      <h2>Signup</h2>
-      {error && <p>{error}</p>}
-      <form onSubmit={handleSubmit}>
+      <h2>Sign Up</h2>
+      <form onSubmit={handleSignUp}>
         <div>
-          <label>Email</label>
+          <label>Email:</label>
           <input
             type='email'
             value={email}
@@ -35,7 +32,7 @@ const Signup = () => {
           />
         </div>
         <div>
-          <label>Password</label>
+          <label>Password:</label>
           <input
             type='password'
             value={password}
@@ -43,10 +40,11 @@ const Signup = () => {
             required
           />
         </div>
-        <button type='submit'>Signup</button>
+        {error && <div>{error}</div>}
+        <button type='submit'>Sign Up</button>
       </form>
     </div>
   )
 }
 
-export default Signup
+export default SignUp
