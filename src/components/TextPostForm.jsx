@@ -5,7 +5,7 @@ import { collection, addDoc, Timestamp } from 'firebase/firestore'
 import { ref, uploadBytes, getDownloadURL } from 'firebase/storage'
 import { signInAnonymously, onAuthStateChanged } from 'firebase/auth'
 
-const PostForm = () => {
+const TextPostForm = () => {
   const [title, setTitle] = useState('')
   const [content, setContent] = useState('')
   const [image, setImage] = useState(null)
@@ -85,4 +85,4 @@ const PostForm = () => {
   )
 }
 
-export default PostForm
+export default TextPostForm

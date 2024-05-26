@@ -2,6 +2,8 @@ import NavBar from './components/NavBar'
 import VideoPost from './components/VideoPost'
 import TextNews from './components/TextNews'
 import Products from './components/Products'
+import VideoPostForm from './components/VideoPostForm'
+import TextPostForm from './components/TextPostForm'
 import './css/layout.css'
 
 const App = () => {
@@ -13,6 +15,8 @@ const App = () => {
         <TextNews></TextNews>
       </div>
       <Products></Products>
+      <VideoPostForm></VideoPostForm>
+      <TextPostForm></TextPostForm>
     </>
   )
 }
