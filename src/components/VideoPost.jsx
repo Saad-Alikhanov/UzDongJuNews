@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCalendar as faRegularCalendar } from '@fortawesome/free-regular-svg-icons'
 import '../css/videoNews.css'
 
-const VideoPostList = () => {
+const VideoPost = () => {
   const [videoPosts, setVideoPosts] = useState([])
 
   useEffect(() => {
@@ -66,4 +66,4 @@ const VideoPostList = () => {
   )
 }
 
-export default VideoPostList
+export default VideoPost

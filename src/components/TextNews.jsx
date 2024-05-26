@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCalendar as faRegularCalendar } from '@fortawesome/free-regular-svg-icons'
 import '../css/textNews.css'
 
-const PostList = () => {
+const TextNews = () => {
   const [posts, setPosts] = useState([])
 
   useEffect(() => {
@@ -57,4 +57,4 @@ const PostList = () => {
   )
 }
 
-export default PostList
+export default TextNews

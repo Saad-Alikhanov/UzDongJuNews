@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react'
 import data from '../JSON/data.json'
-import '../css/card.css'
+import '../css/products.css'
 
-function Card() {
+function Products() {
   const [jsonData, setJsonData] = useState([])
   const [selectedCategory, setSelectedCategory] = useState('EMAL') // Set default category to "EMAL"
 
@@ -85,4 +85,4 @@ function Card() {
   )
 }
 
-export default Card
+export default Products
