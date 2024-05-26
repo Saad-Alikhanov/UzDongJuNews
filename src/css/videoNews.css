@@ -30,7 +30,10 @@
 }
 
 @media screen and (max-width: 767px) {
-  .vid-card {
+  .vid-card .vid-card-content {
     flex-direction: column;
+  }
+  .vid-card-video {
+    width: 100%;
   }
 }
