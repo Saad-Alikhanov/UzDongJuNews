@@ -1,7 +1,7 @@
 // AuthProvider.js
 import React, { createContext, useContext, useState, useEffect } from 'react'
 import { auth } from '../firebase'
-import { onAuthStateChanged } from 'firebase/auth'
+import { onAuthStateChanged, signOut } from 'firebase/auth'
 
 const AuthContext = createContext()
 
@@ -22,15 +22,18 @@ export const AuthProvider = ({ children }) => {
     return unsubscribe
   }, [])
 
-  const isAdmin = () => {
-    // Check if currentUser has admin role
-    // This logic depends on how you manage roles in your Firebase authentication system
-    return currentUser && currentUser.email === 'admin@example.com' // Example
+  const logout = async () => {
+    try {
+      await signOut(auth)
+    } catch (error) {
+      console.error('Error logging out: ', error)
+      // Handle logout error
+    }
   }
 
   const value = {
     currentUser,
-    isAdmin,
+    logout,
   }
 
   return (

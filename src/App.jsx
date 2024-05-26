@@ -1,26 +1,32 @@
+// App.jsx
 import React from 'react'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import { AuthProvider } from './contexts/AuthContext'
-import Login from './components/Login'
-import Signup from './components/Signup'
-import VideoPostList from './components/VideoPostList'
-import VideoPostForm from './components/VideoPostForm'
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import PrivateRoute from './components/PrivateRoute'
+import AdminPage from './components/AdminPage'
+import LoginPage from './components/LoginPage'
+import { AuthProvider } from './contexts/AuthContext'
+import LogoutButton from './components/LogoutButton'
 
 const App = () => {
   return (
-    <Router>
-      <AuthProvider>
-        <Routes>
-          <Route path='/signup' element={<Signup />} />
-          <Route path='/login' element={<Login />} />
-          <Route element={<PrivateRoute />}>
-            <Route path='/' element={<VideoPostList />} />
-            <Route path='/create' element={<VideoPostForm />} />
-          </Route>
-        </Routes>
-      </AuthProvider>
-    </Router>
+    <AuthProvider>
+      <Router>
+        <div>
+          <nav>
+            <ul>
+              <li>
+                <LogoutButton />
+              </li>
+            </ul>
+          </nav>
+          <Switch>
+            <Route path='/login' component={LoginPage} />
+            <PrivateRoute path='/admin' component={AdminPage} />
+            {/* Add more routes as needed */}
+          </Switch>
+        </div>
+      </Router>
+    </AuthProvider>
   )
 }
 
